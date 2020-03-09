@@ -358,11 +358,11 @@ audio {
   background-size: 120px 32px;
   background-repeat: no-repeat;
   background-position: center center;
-  -webkit-mask-box-image: url("../img/logo.png");
+  -webkit-mask-box-image: url("../img/roger_logo.png");
   background-color: #fff;
   width: 120px;
   height: 32px;
-  mask-image: url("../img/logo.png");
+  mask-image: url("../img/roger_logo.png");
   mask-size: contain;
   transition: background-color 0.5s ease-in-out;
 }
